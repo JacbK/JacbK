@@ -1,5 +1,5 @@
-### Welcome to my Github!
+### Welcome to my GitHub!
 
-- 💼 Currently a Forward Deployed SWE at Palantir, previously at Uber as a Backend SWE.
-- Various random projects will be on here, currently focused on my work at Palantir, but had been working on [Vetera](https://veteravet.com/) which made Veterarinarians and their clients life easier.
+I'm a Forward Deployed SWE at Palantir. Before that, I was a Backend SWE at Uber.
 
+Most of what's here is side projects and experiments. Lately I've been focused on my work at Palantir; before that, I spent time building [Vetera](https://veteravet.com/), software aimed at making life easier for veterinarians and their clients.
